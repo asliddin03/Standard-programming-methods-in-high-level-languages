@@ -1,0 +1,3 @@
+/home/asliddin/c++/Standard-programming-methods-in-high-level-languages/cmake-build-debug/CMakeFiles/Standard_programming_methods_in_high_level_languages.dir
+/home/asliddin/c++/Standard-programming-methods-in-high-level-languages/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/asliddin/c++/Standard-programming-methods-in-high-level-languages/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Standard_programming_methods_in_high_level_languages",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Standard_programming_methods_in_high_level_languages::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Standard_programming_methods_in_high_level_languages-Debug-407e54a883fdd42ed7ed.json",
+					"name" : "Standard_programming_methods_in_high_level_languages",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/asliddin/c++/Standard-programming-methods-in-high-level-languages/cmake-build-debug",
+		"source" : "/home/asliddin/c++/Standard-programming-methods-in-high-level-languages"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
